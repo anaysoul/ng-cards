@@ -14,10 +14,10 @@ export class AppComponent {
       content: 'I saw this neat tree today',
     },
     {
-      title: 'Neat Tree',
-      imageUrl: 'assets/tree.jpeg',
-      username: 'nature',
-      content: 'I saw this neat tree today',
+      title: 'Snow Mountain',
+      imageUrl: 'assets/mountain.jpeg',
+      username: 'travel',
+      content: 'The Great Swiss Alps!',
     },
     {
       title: 'Mountain Biking',
